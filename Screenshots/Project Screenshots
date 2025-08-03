@@ -1,0 +1,17 @@
+
+### 📸 Project Screenshots
+
+Below are some screenshots showing key stages of the project:
+
+- ✅ **Streamlit Dashboard (Localhost View):**  
+  This is a screenshot of the dashboard running on localhost. The same dashboard can be deployed and accessed globally using [Streamlit Cloud](https://streamlit.io/cloud), making it accessible from any device with internet access.
+
+- 🧹 **Data Cleaning:**  
+  Snapshot showing how the raw engine maintenance dataset was cleaned and prepared for analysis and modeling.
+
+- 🤖 **Model Training:**  
+  A view of the regression model training stage where the system learns to predict "Maintenance Due Next" using features like vibration level, temperature, and oil pressure.
+
+
+
+
