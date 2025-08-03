@@ -4,7 +4,8 @@ import joblib  # to load your trained model
 from datetime import datetime
 
 # Load data
-df = pd.read_csv("C:/Users/Mayo/Downloads/mt_zaria_engine_log_cleaned2.csv")
+df = pd.read_csv("mt_zaria_engine_log_cleaned2.csv")
+
 
 # Load model
 model = joblib.load("C:/Users/Mayo/Documents/All Projects/ML_project1/regression_model.pkl")
