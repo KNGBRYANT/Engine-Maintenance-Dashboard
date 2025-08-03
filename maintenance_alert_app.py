@@ -8,7 +8,7 @@ df = pd.read_csv("mt_zaria_engine_log_cleaned2.csv")
 
 
 # Load model
-model = joblib.load("C:/Users/Mayo/Documents/All Projects/ML_project1/regression_model.pkl")
+model = joblib.load("regression_model.pkl")
   # we'll save this model shortly
 
 # User input (simulating real-time values)
